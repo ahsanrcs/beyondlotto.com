@@ -1,0 +1,21 @@
+.banner-container {
+	background-image: url("../images/banner-bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.upper-banner-container {
+	background-image: url("../images/upper-banner.png"),
+		url("../images/upper-banner-bg.png");
+	background-repeat: no-repeat, no-repeat;
+	background-position: right top, right top;
+}
+
+@media screen and (max-width: 767px) {
+	.banner-container {
+	}
+
+	.upper-banner-container {
+		background-image: none;
+	}
+}

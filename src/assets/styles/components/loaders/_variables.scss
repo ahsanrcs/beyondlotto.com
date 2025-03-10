@@ -1,0 +1,5 @@
+$square-box-scale: 3;
+$square-size: 30px;
+@use "sass:math";
+$square-corner-size: ceil(math.div($square-size, $square-box-scale));
+$square-corner-position: ceil(math.div($square-corner-size, $square-box-scale));

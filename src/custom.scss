@@ -1,0 +1,168 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.full-page-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.actions {
+	i {
+		cursor: pointer;
+	}
+}
+
+.loader {
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-width: 100vw;
+	min-height: 100vh;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	z-index: 99999;
+	color: green;
+}
+
+.form-control:disabled {
+	background-color: #2a3038;
+}
+
+.no_link_style {
+	color: white;
+	text-decoration: none;
+}
+
+.no_link_style:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.form-control,
+.form-control:focus {
+	color: white;
+}
+
+.small-text {
+	font-size: 0.8rem;
+}
+
+.dash-btn {
+	font-size: 1rem;
+	height: 1.6rem;
+	padding: 0.2rem 0.5rem;
+	i {
+		margin-right: 0;
+	}
+}
+
+.card {
+	background-color: lightgray;
+	color: black;
+}
+
+.form-control,
+.form-control:focus {
+	background-color: white;
+	color: black;
+}
+
+.card .card-title {
+	color: black;
+}
+
+.table {
+	color: black;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+	background-color: #ffffff;
+	border: none;
+}
+
+.auth_input {
+	background: #89ff57 !important;
+	border-radius: 10px !important;
+}
+.auth_input::placeholder {
+	color: rgb(58, 58, 58);
+}
+
+.preview_area {
+	border: 1px solid black;
+	min-height: 350px;
+	width: 40vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	img,
+	video {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+
+.textgray {
+	color: gray;
+	font-size: 0.8rem;
+}
+
+.user_nav {
+	background: #89ff57;
+	span {
+		color: black !important;
+	}
+	.log_out {
+		color: red !important;
+	}
+}
+
+.user_nav_wrapper {
+	.sidebar .nav .nav-item > .nav-link {
+		border-radius: 0;
+		border-bottom: 2px solid black;
+	}
+
+	.sidebar .nav .nav-item.active > .nav-link {
+		background: #89ff57;
+		border: 3px solid black;
+		border-top-width: 2px;
+		span {
+			border: 0;
+		}
+	}
+	.sidebar .nav .nav-item {
+		padding-right: 0;
+	}
+
+	.sidebar .nav .nav-item.active > .nav-link:before {
+		content: none;
+	}
+
+	.nav-item:hover {
+		background: #89ff57;
+		border-radius: 0;
+		span {
+			border: 0;
+		}
+	}
+
+	.sidebar
+		.nav:not(.sub-menu)
+		> .nav-item:hover:not(.nav-category):not(.account-dropdown)
+		> .nav-link {
+		background: #89ff57;
+	}
+}
+.animate_card {
+	transition: transform 0.3s;
+}
+
+.animate_card:hover {
+	transform: scale(1.05);
+}

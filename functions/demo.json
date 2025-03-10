@@ -1,0 +1,1988 @@
+{
+  "subscriptions": [
+    {
+      "id": "e4250017-c2e4-4306-959f-0dbb4c474915",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "K4GSFGTP2Z1MECBKJZYJC9KAJ0",
+      "start_date": "2022-10-26",
+      "charged_through_date": "2023-04-26",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDYwHYzk2BnN9iu7gQqeQcREJoK",
+        "inv:0-ChCFE7zb8zP7Ei6gkerOc_T-EJoK",
+        "inv:0-ChBXev42gUQ06JhgO7BTowhtEJoK",
+        "inv:0-ChCL4v4wZudcpRrO29JnRU8OEJoK",
+        "inv:0-ChAFzSwssuu2A4NMMxcvKuD4EJoK",
+        "inv:0-ChDVKRMZ8yhC3D6WqKDc8NsrEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-10-26T15:34:13-05:00",
+      "card_id": "ccof:6H33q7XUSaU0Xhhr4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "029494f4-b8a9-44f5-8110-505bb1113ca9",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "HQQTDA5SHAZ3KQWZYK6AXP138R",
+      "start_date": "2022-10-27",
+      "charged_through_date": "2023-04-27",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDBLVAZvO6t0h9Ap5O-NQXKEJoK",
+        "inv:0-ChBzLzcPnjd_58XHphOqC-3YEJoK",
+        "inv:0-ChDzjbhvT2kSkgjrrpU8hNo8EJoK",
+        "inv:0-ChBKuXKSah9QlEMYMOl83AKsEJoK",
+        "inv:0-ChDDcNfq-MDwiik00W2J9ntcEJoK",
+        "inv:0-ChCyw9-H_kQBFatKRc7gdCeyEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-10-27T13:43:43-05:00",
+      "card_id": "ccof:K3pU34HX1W1DQ2gx4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "05b319c7-5ddd-46a8-8aff-56f9d31dffad",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "3C69S81QVFNBYBDYK7NAZKQJK0",
+      "start_date": "2022-10-27",
+      "canceled_date": "2022-12-27",
+      "charged_through_date": "2022-12-27",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChDC_vT1JMFlyhZD0wUdEWKTEJoK",
+        "inv:0-ChC4AQrXW4A5Vl4Y9ToptA88EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-10-27T16:57:32-05:00",
+      "card_id": "ccof:GPCu1iltC9HwtGUK3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4aa178e5-ccf3-457c-b79e-3094b50f34d7",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "DKSV9PFWZ51C76RFK2WSSEKFQR",
+      "start_date": "2022-10-28",
+      "charged_through_date": "2023-04-28",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAZPvxreoAAJ-NNjqGq6x3IEJoK",
+        "inv:0-ChC9Wth-YTWsmsGIO1wgyji-EJoK",
+        "inv:0-ChBkTXc0i4ooTrMJkiEFFsN7EJoK",
+        "inv:0-ChA2mOo3AXP96Ze92Xwq4JSeEJoK",
+        "inv:0-ChBh46d8LyvTQ1BsrAqmsZCYEJoK",
+        "inv:0-ChAvqrKao-oV2wsSDkCjlYwtEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-10-28T11:31:32-05:00",
+      "card_id": "ccof:qbVLgLRpNaWkXywh3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "2f99e2a4-6ad9-456d-a95d-27ee8f6e2b07",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "TG2MZ5Q4BQZPD1V3W0SKZQZVFW",
+      "start_date": "2022-11-01",
+      "charged_through_date": "2023-04-01",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDfYqumi_yI41zRJq2L8o_aEJoK",
+        "inv:0-ChCXrNCVV0dywFazDzAU4TasEJoK",
+        "inv:0-ChD-N4MlGQNKUheZ2Sm8gDxlEJoK",
+        "inv:0-ChBoqmVhv8HjtTj0fnX_8ZU-EJoK",
+        "inv:0-ChCS6EThXvfw9p1GlVujMhxHEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-01T09:28:40-05:00",
+      "card_id": "ccof:AC9sqhMlIF2KNGm43GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "89c2c5ad-fb37-4e4f-aa25-ea42c328108a",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "AJA5W6P8XHMWW2BY41B79MK5K4",
+      "start_date": "2022-11-01",
+      "charged_through_date": "2023-04-01",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCNhDGb9jTt41c8dNSOmgoIEJoK",
+        "inv:0-ChCH9R84cuKMxWd536Q4LIYIEJoK",
+        "inv:0-ChB7g8t9t2ga_hEeaDLS8ubsEJoK",
+        "inv:0-ChBY4P2L3Iqjfgm5G_-tx_ltEJoK",
+        "inv:0-ChCP8ak2NU5kbDfCIDWuZkTUEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-01T20:11:20-05:00",
+      "card_id": "ccof:OdJ9UAGkWXnTr5sp3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "951143a4-b444-4961-9967-3afaf1266410",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "CJH99MDBSA4CSNJCCRK06MA1ZM",
+      "start_date": "2022-11-02",
+      "canceled_date": "2023-01-02",
+      "charged_through_date": "2023-01-02",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChAKFPnX1wsJthYmgnBK692dEJoK",
+        "inv:0-ChA2FGca_ALsbUq7fxM4yw59EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-02T12:39:09-05:00",
+      "card_id": "ccof:eZLp4ckwiQ6Aa78x4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f8104200-60e2-43d6-927b-55c3a73b044e",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "45JEZ03NXN1V33TMJEP77CXYN0",
+      "start_date": "2022-11-03",
+      "canceled_date": "2023-01-03",
+      "charged_through_date": "2023-01-03",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChCXaEwAnyQhkYmnRIKJXoxQEJoK",
+        "inv:0-ChATeKunaJ4dZKl7l2TegkicEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-03T13:11:11-05:00",
+      "card_id": "ccof:Q27CtoByMLFicIkq3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "b00abae0-5a9c-4c56-99dd-3b20437e41aa",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "FAAPC07TD96KP54134PDN81VT4",
+      "start_date": "2022-11-04",
+      "charged_through_date": "2023-04-04",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBNK8kdEGMsxf4_yxN5g1sIEJoK",
+        "inv:0-ChAgfikcpkGMkLD4q79S_l0nEJoK",
+        "inv:0-ChBgvUrcDA5wBroFLMVXlo9rEJoK",
+        "inv:0-ChDnreL0ObK89szQvLWlm85KEJoK",
+        "inv:0-ChAo0_Xd4U_xSuCJWlcStNb2EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-04T12:12:42-05:00",
+      "card_id": "ccof:eHkM5eNGEBpvMjFa4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "9ffdfc9c-46e4-4338-92d3-e4ba54524892",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "WZQ24D8NPFMWH8CCSREHGF9RZM",
+      "start_date": "2022-11-04",
+      "charged_through_date": "2023-04-04",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCRs4YCTU3wYbUW2i4YWDaqEJoK",
+        "inv:0-ChBXUQgO1cXaJRgXASxVIoFREJoK",
+        "inv:0-ChDJVJ1spZ2U0_nLPNzSOROxEJoK",
+        "inv:0-ChALw4fKXH-k8wnJXDTVnmz4EJoK",
+        "inv:0-ChCFdDpFrfMnvP2rNfGCtxedEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-04T13:14:15-05:00",
+      "card_id": "ccof:Iej5ajtFUwJZDwJx4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "e1261eea-092e-49aa-a0c9-6034377e4da2",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "AXM635DED7K9750CYH3G15JCJ0",
+      "start_date": "2022-11-04",
+      "charged_through_date": "2023-04-04",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDr3bxW24-Dftn18YcnJKGmEJoK",
+        "inv:0-ChBSNLp54G04NPDSBgj_7sfjEJoK",
+        "inv:0-ChCxTxoRatkgNWZJhg8YZqWQEJoK",
+        "inv:0-ChCzrjcx04Rk9I3XTme9OhS1EJoK",
+        "inv:0-ChAAXXqlWlerEfiUsLVUDD97EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-04T16:58:18-05:00",
+      "card_id": "ccof:Cv7KJ2jrOhsT3Asy4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "9e5c0251-2cd6-4840-ab12-21ce09e467ed",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "7A7MPOEMJKFKZQ4OHRNHABOT",
+      "customer_id": "JSXFWC29650ZH7SYVKAEA0K2E8",
+      "start_date": "2022-11-06",
+      "charged_through_date": "2023-04-06",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBqOlU_XEufeq0boA25ySOSEJoK",
+        "inv:0-ChDsrrEH49MODM0MD3ykuw5sEJoK",
+        "inv:0-ChCsrsMZ_qmKoPNR__ch4-68EJoK",
+        "inv:0-ChBvabS5IkILLvFfyhzv3NPsEJoK",
+        "inv:0-ChBy8KYiwneuvHDm-ZJ6I4dnEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-06T20:41:44-06:00",
+      "card_id": "ccof:ezOYELRWcRxvqhxR4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "dda0cb59-c9d3-47e5-adc6-c12c5cec3070",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7FAECH5FAMXQDQYSSAEDCXNQFM",
+      "start_date": "2022-11-08",
+      "charged_through_date": "2023-04-08",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDnLdfQOIpsibKnW1aLoodEEJoK",
+        "inv:0-ChDZw54a0wMyVXx6gB94_FxIEJoK",
+        "inv:0-ChAGgeyf_xus-MYMS7-wkY6bEJoK",
+        "inv:0-ChDk5WQW1zo-ycMjrVHL1kwgEJoK",
+        "inv:0-ChDco7GqxHHQ_UKdeekb-0wMEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-08T15:51:36-06:00",
+      "card_id": "ccof:SZME0rQK7xg1utyw3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "98abc1dd-3651-4ad0-a85d-03de0933c908",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "RM5B6SJ9GF02Z992MTKWD4SZ90",
+      "start_date": "2022-11-09",
+      "charged_through_date": "2023-04-09",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBr7lvh8Fz8lr1XznAflukXEJoK",
+        "inv:0-ChCT_0nDJ-fsj-S90Mea8PQ1EJoK",
+        "inv:0-ChAyldOmwtcaWK_bijgmMsy2EJoK",
+        "inv:0-ChAc7CqnbhuCvvAkozC1cE9VEJoK",
+        "inv:0-ChA13gcXwWGn2JrOGh9NCyALEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-09T10:42:00-06:00",
+      "card_id": "ccof:EK6rFKI2v157r98y3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "dede7edb-89de-4b5a-a8e7-8e5c3b9c41a9",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "KB5CXMN05G0MH7KHZ6J1BBHDJ0",
+      "start_date": "2022-11-09",
+      "charged_through_date": "2023-04-09",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCl8ARrTx9Amci7q1s7gH8AEJoK",
+        "inv:0-ChDO47OfTxI8yfzQfGvzHNteEJoK",
+        "inv:0-ChByN4FGq054PuAAoXKUC0aOEJoK",
+        "inv:0-ChBEH6YSEPzl1JKwCZ5ZrjJoEJoK",
+        "inv:0-ChCITR7CyvASLtNt1lg3e_ZWEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-09T11:33:33-06:00",
+      "card_id": "ccof:uzILo6UnCk7EyD1f4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4eb1f626-c03a-41b6-b8aa-dc26230c915b",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "S1A6VFKERREA79RAFB84F2ZQQC",
+      "start_date": "2022-11-10",
+      "charged_through_date": "2023-04-10",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAXT-kmVqKCUxGMxEPDdsDoEJoK",
+        "inv:0-ChAiu3ieREDsrNuow6bt_OH-EJoK",
+        "inv:0-ChA9gX_ndQF53ER26PMspXqBEJoK",
+        "inv:0-ChDg7ZckGsky4g0tLhRHai1qEJoK",
+        "inv:0-ChCCrexGdOb3VkCOEuycBAEbEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-10T15:03:36-06:00",
+      "card_id": "ccof:ypQgPATuuxF4rBJS3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "5046b2ce-5cb5-40c5-8fdd-efbe66797430",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "GPVWZD6WKWSFMHZNV1HSS9NS84",
+      "start_date": "2022-11-11",
+      "charged_through_date": "2023-04-11",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBpN47u9dhkrO92_WYzMuFaEJoK",
+        "inv:0-ChDhosK-bIQ8Zpf0lKESuPBoEJoK",
+        "inv:0-ChCLw7iWPjP4fwepwceSizDCEJoK",
+        "inv:0-ChBO81gKFZQJsqdFSJksyndTEJoK",
+        "inv:0-ChDvgZoFOXeubmZobYMP9F4oEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-11T13:16:10-06:00",
+      "card_id": "ccof:48qnSOo5cBMTCQZj3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "6d71d3d0-cb04-4fc0-8d87-6f3932500897",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "A975SG754K0NECTDNGTG7762Q0",
+      "start_date": "2022-11-12",
+      "charged_through_date": "2023-04-12",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBLJVaQbTu-KOktd3SYGcohEJoK",
+        "inv:0-ChCo7ja97RkDhkbSKeezar8sEJoK",
+        "inv:0-ChCdFiTPbbbqggclooIn5UNUEJoK",
+        "inv:0-ChDpkEHF0PdP0kE0ZjJJGNmiEJoK",
+        "inv:0-ChDnqnKxGJOTUmvHb0dG8jxYEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-12T12:01:26-06:00",
+      "card_id": "ccof:AedDbW2o6HKat1tK3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "cf3de2c3-f6f2-46c9-81eb-8a94d50982ce",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "0ZR790A734XJ3ZA90TT8JQ3XTR",
+      "start_date": "2022-11-25",
+      "canceled_date": "2022-12-25",
+      "charged_through_date": "2022-12-25",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChAtiISClapVOtwAjzTh3_0SEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-25T12:19:46-06:00",
+      "card_id": "ccof:wunA6OpUF8fB83cR3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "2dae4f36-44df-4d38-a4e1-f40ad30ab5a6",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7CC66RQEZH0G67TSV37K780KF4",
+      "start_date": "2022-11-25",
+      "charged_through_date": "2023-04-25",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDsdRXq6GE-wVBtCOfnNxKeEJoK",
+        "inv:0-ChCfpzUBX6VR6EpG_LZi8QfAEJoK",
+        "inv:0-ChAgQDgwnyb_27lpuJim_TfcEJoK",
+        "inv:0-ChBP26-D_EN1zjRP-QQpiRfREJoK",
+        "inv:0-ChC326mHdC0mvT3NE5edrK5PEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-25T13:13:17-06:00",
+      "card_id": "ccof:Y46AyTPMxq5gUUHv4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "912622f6-6fe7-402d-be0c-218a3fb7c23c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "2C1M986SRZ0Y7DXNGJCZA5SJM4",
+      "start_date": "2022-11-25",
+      "charged_through_date": "2023-04-25",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDxt1iWSiaHTrj5qFoy8S6IEJoK",
+        "inv:0-ChD6cM5zbOimR0er9vedPrHQEJoK",
+        "inv:0-ChBbHM82Fk3_Di61_gu2DL0eEJoK",
+        "inv:0-ChCvQBaNaRAvKtFwrnEZwbo8EJoK",
+        "inv:0-ChCE7donpuRKbDmIc-Y3G56TEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-25T15:13:40-06:00",
+      "card_id": "ccof:wEQlzvaK8tDYlMtY4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "a37eaad9-b81a-46c9-a20a-778ac40b29ee",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "1BAZZ2KEEDA9W445EFKP5EQ3F8",
+      "start_date": "2022-11-25",
+      "charged_through_date": "2023-04-25",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChA3-A3od-r6XnnAvjkgmO7GEJoK",
+        "inv:0-ChBAF0eezXd873J5bZ4MiI-uEJoK",
+        "inv:0-ChCtIzh9dWSAtSV-i_8_UvLlEJoK",
+        "inv:0-ChBg-30J-pWTflNbzBGy4xi5EJoK",
+        "inv:0-ChAEZxnYke3_n3r6UM8_ULEMEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-25T15:47:20-06:00",
+      "card_id": "ccof:WhrcngFVQ7AHb7Xx3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f71eb7ec-9f8b-4a01-90d6-e5d6ed5556ae",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "5E1S8JY9C50XN8S78KA9PY1SEM",
+      "start_date": "2022-11-26",
+      "charged_through_date": "2023-04-26",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCbjxNmLO1jFmYUQ6EKu6BeEJoK",
+        "inv:0-ChA3L1PG7_l-9V9PPHmEQbpaEJoK",
+        "inv:0-ChBryoj48zmtxJvCQTuJh7nnEJoK",
+        "inv:0-ChBHlOsjnndfDvXKLI0KwSVbEJoK",
+        "inv:0-ChD_NuBFHZP0RqXNDNrsrHg9EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-26T16:52:05-06:00",
+      "card_id": "ccof:4MyLaHR7ApHiordZ4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "2bb60409-e2e2-44f9-a918-3ca8b35298cb",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "E1JJFJJV0YJ6FW34DEBSN3CQ70",
+      "start_date": "2022-11-29",
+      "charged_through_date": "2023-04-29",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChD-WnkOkf-h4MSnUuLR14w9EJoK",
+        "inv:0-ChBSC4XwaEF0cgjCZQn9W7RgEJoK",
+        "inv:0-ChDz6cvO1DLIqDvzIK8KhRWfEJoK",
+        "inv:0-ChCCGeqXtH1k6JtqX8MPhX9IEJoK",
+        "inv:0-ChBgG69OVvm_o4vbyr-rpb-oEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-11-29T14:45:32-06:00",
+      "card_id": "ccof:8UL8fQv2vuiK2M1O4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "1de5cf33-91a1-4108-b829-b968c94038d1",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "WTJTT0NJ479695PHEA7ATYHEMG",
+      "start_date": "2022-12-01",
+      "charged_through_date": "2023-04-01",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChApYVlZIf4MzdCOtbf-yctVEJoK",
+        "inv:0-ChBWu97gZ5MBOQmTi7cynq9MEJoK",
+        "inv:0-ChBqyr3SKPjjJsz0JK0fTYgJEJoK",
+        "inv:0-ChDLUqVdb9YWz7vCu-S54-8uEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-01T14:14:25-06:00",
+      "card_id": "ccof:8clZAUHepxf82hXy3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "d3ee9f5e-310c-4fbb-92f6-7c9dccebece2",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "4NA9MHTTQPTXS9X6DP1NCJSE5G",
+      "start_date": "2022-12-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCFBpxpjiXrsdC9-a4tA464EJoK",
+        "inv:0-ChCirnY5FvWrOM_ZS3u72i6LEJoK",
+        "inv:0-ChDctpc1dQsYBye5ilz-cIRtEJoK",
+        "inv:0-ChD0AmDiXSMKAK1xRvuNWLJYEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-02T13:21:17-06:00",
+      "card_id": "ccof:wkyEG9hNsfsOb5Qw4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "377be7e4-3af6-42e0-8a72-6c7d653d74d2",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ETHN9ZPV8S95S2FAM31DH41GCG",
+      "start_date": "2022-12-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChD4cq7m_Fb9Yh1TTsbksjGPEJoK",
+        "inv:0-ChCRPwH6Yg6ePbTjtMeoSDHsEJoK",
+        "inv:0-ChC_vJK7ezcpLoN-MeQbN6UCEJoK",
+        "inv:0-ChDle9P5HroPt0BU3LL0nVwPEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-02T15:54:59-06:00",
+      "card_id": "ccof:Ofqz7OCOBpwkjxOv4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "d3455530-26f5-46f2-9ede-61d5628c1d60",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "SG6VF1ES3AE5M4PE2HY5WTCC3G",
+      "start_date": "2022-12-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBNo1lECUhBUIlt6g11A20FEJoK",
+        "inv:0-ChAbTftnGiZTZhcjgvzyQl4nEJoK",
+        "inv:0-ChC3WqKXEE9dZdREAyqG6RqwEJoK",
+        "inv:0-ChB6NJPLi9CkXwmkebI0VvtnEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-02T15:56:36-06:00",
+      "card_id": "ccof:Y468SCMtUKVu9i8l4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "78139dd0-1879-4544-ba38-337fd9df6039",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "4V2TGYTT3NSXG6KRPHNBEFQ9J8",
+      "start_date": "2022-12-05",
+      "charged_through_date": "2023-04-05",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAd4_I_JovNF5TC2dWdRJVREJoK",
+        "inv:0-ChAK5YSFnBMDo9-Qtm0rVelcEJoK",
+        "inv:0-ChBuhQ7e3EYsZj7Lo5SZXsnqEJoK",
+        "inv:0-ChAolxATiNnpMkepzMVIi9vcEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-05T10:13:01-06:00",
+      "card_id": "ccof:AmR1mH3u4JmBj0gN4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "1edd6b90-40c7-45a6-9bb2-54df4413b17f",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "FB90EEYXSMPA3W1NQH8WVWN7C8",
+      "start_date": "2022-12-05",
+      "charged_through_date": "2023-04-05",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCj5MATPtkXR-7QcjkEJREFEJoK",
+        "inv:0-ChAeLu26GYBsFkoPbF00-T23EJoK",
+        "inv:0-ChA2JBxkjsHsElEvgjpX_wWhEJoK",
+        "inv:0-ChBu9-3ewkRvsQhKpoRo1zruEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-05T15:38:22-06:00",
+      "card_id": "ccof:AQQC2LW55HvHc8RU3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4320932e-372e-4158-88c0-55b6177a3b0b",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "1S5P97MMV8YTNEAEKDM34PG4GM",
+      "start_date": "2022-12-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAPwsY9c7VLR8F7Ixx5pEbBEJoK",
+        "inv:0-ChBr_4OrCuPQnJ2_ZN5uUg9HEJoK",
+        "inv:0-ChDXDmsKFflExVdSdlGr_8evEJoK",
+        "inv:0-ChBhhgumfbGHk7mfMvNMV4jrEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-07T11:43:41-06:00",
+      "card_id": "ccof:8CeYaYUiDC3NXsu13GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "ebc4bed5-9bd0-4175-b50f-5fe4252a6a8e",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "P3XEHJNH5EDFNB0Q5D82ND1NZ8",
+      "start_date": "2022-12-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCRPIgPEZHNAWi_LUYj0fXGEJoK",
+        "inv:0-ChDpVyPHuHscrF9C9hIWuI9EEJoK",
+        "inv:0-ChDYyOHB9LsphSyJE4F7tknHEJoK",
+        "inv:0-ChA2ZH2a76y81Dollzqgc0aLEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-07T13:10:46-06:00",
+      "card_id": "ccof:mzmt8NZyw2342pRm3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "0d5e0ba0-de09-4877-8e3b-fcc4820e380e",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "P7JMC281CNSBKXC90984YJW1GM",
+      "start_date": "2022-12-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAP3uQInVS3WDo6m1JiHC8JEJoK",
+        "inv:0-ChBH5zyicaDldtSIFBqC3BOtEJoK",
+        "inv:0-ChCub2ncAIYUSZVFTpUBRhJLEJoK",
+        "inv:0-ChBuWXkOCl-MN97kZn4wfipfEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-07T13:12:44-06:00",
+      "card_id": "ccof:wK1q5RCgl5xIcPla4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "527cc2c0-d68f-49c5-a657-018757855f8c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "7A7MPOEMJKFKZQ4OHRNHABOT",
+      "customer_id": "JNV51MF2AX6CB18ZVNVZQM24WR",
+      "start_date": "2022-12-08",
+      "canceled_date": "2023-01-08",
+      "charged_through_date": "2023-01-08",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChAGlTMRJMF4FQW9MYRCMkOWEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-08T14:58:58-06:00",
+      "card_id": "ccof:4ejlBpPjQgRyvHTa3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c4514713-e64b-4011-b7b4-c673a6e8a2f8",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7332VE0F6R7PG8TSESSE7NA4CC",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCUX-5PdekbZF-fZh1wDmdYEJoK",
+        "inv:0-ChAfaYchDVzoBcbBnzaN4bX3EJoK",
+        "inv:0-ChD1SkxsXaDYS5NI-Kgvn1-nEJoK",
+        "inv:0-ChA8fqHNGc3SNjVCp3H5S41eEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-13T10:23:40-06:00",
+      "card_id": "ccof:8mWX0qs0BEOC4Ltf3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "32e0802a-a835-44c2-ae89-743742b52652",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "EPEXBEDZ9YDFXAB2ARWHQ7MASG",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChB4j6qhy2Abn0aYsPRl1gUZEJoK",
+        "inv:0-ChB6yL1R5LnVT7QZJBdMAmb0EJoK",
+        "inv:0-ChCcB07wb2PAxoj2Zg99nO8ZEJoK",
+        "inv:0-ChAjqFaW4wlj_G4408u_M5QzEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-13T13:49:07-06:00",
+      "card_id": "ccof:EwRryvJOB4gmOTbY4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "e8b443d3-d83e-44a4-885e-cfe248e10ff4",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ZEYFKS5X84P9YNYY5W7SREBY9C",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAIwWxkFctW3rVrfzjK574PEJoK",
+        "inv:0-ChDJm4QVWTSOvK6N3V-4DTaAEJoK",
+        "inv:0-ChANauL3vFbgXOUZrhpm1iKMEJoK",
+        "inv:0-ChBKVsmh5HUDZ2NaZ8XMATCWEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-13T14:15:12-06:00",
+      "card_id": "ccof:0Mbh7fpFKmZN2eSf3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "6ca896d5-a054-4c40-8273-a3c4d1bbdc33",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "M50N5CSVSA50B0RN339P7EMPX8",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBnwmyJrQPPK7GH49xTwKpAEJoK",
+        "inv:0-ChBPANvtntFRvB7oRXaxBJ05EJoK",
+        "inv:0-ChCV_KT-c-OLOZzjCACINCNBEJoK",
+        "inv:0-ChCM9-gycIn__cjaUhclrlOzEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-13T14:17:03-06:00",
+      "card_id": "ccof:iV4RuB3M1eCyyIB83GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4c06cbfa-27d1-42d4-8872-8abac535c5fd",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "PT57KN7NWBWEADR8MWXR5Y3M80",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCDUfqqZmCzQ3bgNZ-H16ctEJoK",
+        "inv:0-ChAsPOzuecRMLPEgNOVmh3q0EJoK",
+        "inv:0-ChDVvQ_eb0nZi4mG8zxFOlVGEJoK",
+        "inv:0-ChDjGeAQwgKrPHj-BsVU6k8lEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-13T14:18:41-06:00",
+      "card_id": "ccof:25rYsVWz1ckt9FsR3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "3a4d3f9c-c7aa-4395-b186-0d6574e183a3",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "HFG3C70607WHB4Q291C8YBNTAW",
+      "start_date": "2022-12-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCxzqkW9670mE8CftVNvXfyEJoK",
+        "inv:0-ChCSEwcPs-m7UlMdxh8kPD4EEJoK",
+        "inv:0-ChCS87jrkEGsX-q_Hb7iUygsEJoK",
+        "inv:0-ChC0DytsmUj-XgedXypubCaNEJoK"
+      ],
+      "version": 3,
+      "created_at": "2022-12-13T16:57:25-06:00",
+      "card_id": "ccof:Ycs2Z5rqsQxRCYl03GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f34f1420-9699-44eb-9e17-7ea4dc5c19de",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "65SJB7NQZA4HJ4C6DQNXGDSEHW",
+      "start_date": "2022-12-14",
+      "charged_through_date": "2023-04-14",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBlZbDPxMCdMbAjzZc2VxXGEJoK",
+        "inv:0-ChBz1IJjUa2UUW6lQqX5l1FWEJoK",
+        "inv:0-ChAQp3-0vPjyNJHDjOK8AgUxEJoK",
+        "inv:0-ChDbtywg5zd7EKvBx5BIr3KLEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-14T12:36:37-06:00",
+      "card_id": "ccof:4AUXE4MKyVQSZJqI4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f347e617-7451-4eee-91a8-6d38a366c4da",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "KQJ8VH4SBJVZGN0JSPQB0RFGGW",
+      "start_date": "2022-12-15",
+      "charged_through_date": "2023-04-15",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAHE_B7xtsBzdb3ab_wn-EAEJoK",
+        "inv:0-ChBmd_V5CIujaeMoyOJ4dQueEJoK",
+        "inv:0-ChAdB_ZKGESNWfyPVcoHXxjbEJoK",
+        "inv:0-ChB7zz3I5L3SsrJ03aWO_5lqEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-15T15:16:32-06:00",
+      "card_id": "ccof:MExbaIi8sqLG12oT4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "48e1b0ae-75eb-4378-b80f-076dab33043c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "4JXR7169JMP3R70ENPENHKZ9Y8",
+      "start_date": "2022-12-17",
+      "charged_through_date": "2023-04-17",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBsPtDxiscqw3mb4Tstd-DcEJoK",
+        "inv:0-ChCK0Pwj0FWnvSJ51ke3OAOTEJoK",
+        "inv:0-ChA1W1TJVL447MSBpTeEn5NqEJoK",
+        "inv:0-ChAX5uRz7cAwpz-uxFCfDWubEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-17T10:58:17-06:00",
+      "card_id": "ccof:AChsPiJTsWkVLeGc4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "76880ef6-3ea5-4ff3-8ba7-351f03c632eb",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7F9M24RD7H3D5BX5TRXVWG5VB0",
+      "start_date": "2022-12-20",
+      "charged_through_date": "2023-04-20",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAxD6Ob49Trib5zQUbNF2x4EJoK",
+        "inv:0-ChC9of-IQN_ysBKjwYd0k-p3EJoK",
+        "inv:0-ChDkKIyqOw0deF03KGaljqIAEJoK",
+        "inv:0-ChD_X5Bb2zNWydsBpkZW4gUVEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-20T13:15:48-06:00",
+      "card_id": "ccof:ggmv3xVJuTEOgLNe3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c24d4431-3af1-4394-8a46-e94a27d93143",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "S1A6VFKERREA79RAFB84F2ZQQC",
+      "start_date": "2022-12-21",
+      "charged_through_date": "2023-04-21",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDQP7Xa8HUCaUvdHmp9XVczEJoK",
+        "inv:0-ChAD23IHPhwZ5IaNyuoozrbgEJoK",
+        "inv:0-ChBAz7VIQn2n-h_U25kIn5DfEJoK",
+        "inv:0-ChBkrX2R584Zi0cS3_J6YnRyEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-21T08:38:40-06:00",
+      "card_id": "ccof:kQxvWn9APDyB4Kmw4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4678fa14-355a-47fa-b5fc-82ca29cc423e",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "R6WN728N2T0AKTAXP5QS1RSC0R",
+      "start_date": "2022-12-21",
+      "charged_through_date": "2023-04-21",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCDI9gEi38o3WMF9FeDVrGHEJoK",
+        "inv:0-ChB0buN1bpYfOyp-eTanV7h0EJoK",
+        "inv:0-ChCLvGDhGYWdTQ7h-0epFFUVEJoK",
+        "inv:0-ChBd9g1xFVFhMNQz9rQnuoK0EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-21T15:00:31-06:00",
+      "card_id": "ccof:gSPbpR91tQt3NFcT4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f939c445-8273-43ad-aa54-90b3206970c5",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "9RYT0CDGQ2C9RBFPG7XX7NA3SW",
+      "start_date": "2022-12-22",
+      "charged_through_date": "2023-04-22",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAyMiTg3HeAChzQB68qgjMnEJoK",
+        "inv:0-ChBMCYaEhBiTfF2ExBvDebblEJoK",
+        "inv:0-ChBtUz_YnFnHfi3ScsW-Gf9aEJoK",
+        "inv:0-ChCI3ZxBfDA5rkwjUU-3bbxPEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-22T14:35:16-06:00",
+      "card_id": "ccof:8ApG64LiydsKTIbW4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "95bb8ecb-1a15-4a49-91da-9531720cf52c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "YCKF0BK4HS6RV27MZT9KT1PRSG",
+      "start_date": "2022-12-23",
+      "charged_through_date": "2023-04-23",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBBp4DGyM4c-bGOF98IsGDEEJoK",
+        "inv:0-ChDdM9AXmJ2rfm8UFKn-ZRquEJoK",
+        "inv:0-ChAsDbDBC2lm-yAQrIoX3yU4EJoK",
+        "inv:0-ChCiAw2cmUhTRQrVLLyprFP1EJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-23T12:03:29-06:00",
+      "card_id": "ccof:6pMF8fsUoBskqixL3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "30302b4e-d993-4ee1-a975-0d333601680e",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7RHPD0DG21GWHE375VTS0F3SPG",
+      "start_date": "2022-12-23",
+      "charged_through_date": "2023-04-23",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBM9YeSwmvh24iOH9ugWZTeEJoK",
+        "inv:0-ChAf61mmC2XUVqvqTsL1skh0EJoK",
+        "inv:0-ChCFtIGc0c23NGdH3yutQyZyEJoK",
+        "inv:0-ChCWVEcuPBaGQJcUoxH3-v0dEJoK"
+      ],
+      "version": 1,
+      "created_at": "2022-12-23T12:06:11-06:00",
+      "card_id": "ccof:i9GegeNv86VgL1s33GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "061d53ed-6562-4c81-8a21-7b77a9e543a4",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "3C69S81QVFNBYBDYK7NAZKQJK0",
+      "start_date": "2023-01-05",
+      "charged_through_date": "2023-04-05",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCjC6ASm3dZIzll6_ebqo_0EJoK",
+        "inv:0-ChA1bp58eS4h7kttlv0uPh7rEJoK",
+        "inv:0-ChAdqBOQkLQq0ZgIcpRZ3fPAEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-05T16:15:10-06:00",
+      "card_id": "ccof:M0bGVb3Z3fMy1fzB4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4cedb551-6cd1-4b05-994a-4bd7a6c9a2ff",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ACJPMP2WSR6XGZJGE83QXG3PX8",
+      "start_date": "2023-01-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDPGMc9JN34XicIuBjoIImuEJoK",
+        "inv:0-ChBBhnWMoei8CxAQZugRIDUmEJoK",
+        "inv:0-ChA06G-HV_fnhqrPvcU6aPEVEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-07T14:11:11-06:00",
+      "card_id": "ccof:a5iKBvn4YL6omvMb3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "5ce297a9-7bda-4768-b27d-c34e0533a29d",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "V199ZB11Y1P1M3A31YC6DM5Y90",
+      "start_date": "2023-01-09",
+      "charged_through_date": "2023-04-09",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAZMeYUiXWRTtLktVbnKA-gEJoK",
+        "inv:0-ChD9yKH5J96j_8PQsnK3iTnDEJoK",
+        "inv:0-ChCBGZ4LgWPPxyCKUwsJmm37EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-09T14:42:36-06:00",
+      "card_id": "ccof:arlnFrjhRZGDg3VG4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "fffab73c-3499-4440-80b5-ad0cf02ea4b8",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "X4FDXFS6HVWE8SQ8C2A373KHYC",
+      "start_date": "2023-01-09",
+      "charged_through_date": "2023-04-09",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChA2xo-dYKo-n4VHSHtDQl-6EJoK",
+        "inv:0-ChDopOLCPfzi617kxe9vj-W2EJoK",
+        "inv:0-ChCv8FPmSkSStotmV6Z-OfHMEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-09T15:33:46-06:00",
+      "card_id": "ccof:qbt3S4dIN4Ci5f1c3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "e045bc92-5252-423d-92ba-019e26237428",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "69MJFE1SYCEEXAV7CVZDV49N8W",
+      "start_date": "2023-01-10",
+      "charged_through_date": "2023-04-10",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChB4XR5R69GSceqetTqI9xtFEJoK",
+        "inv:0-ChBe5O9aWFI5RiDWviomvWydEJoK",
+        "inv:0-ChC6Wpdm3ZV5sJ8Jfnl3WbWdEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-10T11:41:59-06:00",
+      "card_id": "ccof:21By3HSfII36Yb6O4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "7df7f4fb-80aa-4371-a85d-69368f085bdd",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "WWFP68TAE236489N2ASWBHP094",
+      "start_date": "2023-01-11",
+      "charged_through_date": "2023-04-11",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCtvVAeEioNtdHVCWf1FEi3EJoK",
+        "inv:0-ChAet8FcLmKaU62lckLOw6shEJoK",
+        "inv:0-ChB8DEtaXcAhxrFiboiKkDNwEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-11T10:52:09-06:00",
+      "card_id": "ccof:loLsZnRpYPlyNDHw4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "e7a9ba35-4341-4298-b8c3-224fcdf56adf",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "96A49J84GTZRQ5WD9CTG43K20W",
+      "start_date": "2023-01-11",
+      "charged_through_date": "2023-04-11",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAy3inA67CprAhBwSoACMYaEJoK",
+        "inv:0-ChCN-HT2imp9KWUHZTBknUHwEJoK",
+        "inv:0-ChA0LzaM6NSxrCor7UdM64uWEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-11T14:55:54-06:00",
+      "card_id": "ccof:AsAdJ6EaCirntieX4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "816157b3-14fd-4c45-bf5a-fc1f6c4af3d9",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "Q5T9P7KPEHDC1T0RPWVT5JM5WM",
+      "start_date": "2023-01-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDmpug6pxPpeInHQD02HjTSEJoK",
+        "inv:0-ChBx3sHVjK9v70c95v3Zu2OUEJoK",
+        "inv:0-ChAe_lrEtarSlHUHxFYRd-cAEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-13T10:54:21-06:00",
+      "card_id": "ccof:MewmX0TTJ8YPOV5l3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "bd5cca7a-f702-40af-a371-4360a5d2e12f",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "HFG3C70607WHB4Q291C8YBNTAW",
+      "start_date": "2023-01-13",
+      "canceled_date": "2023-04-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCDxPNbTq7ayjr66xAyStEiEJoK",
+        "inv:0-ChD14bCfJxZJK8UmZgvbuJQwEJoK",
+        "inv:0-ChD3iCVbsD9zJrhonU8Co3GXEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-13T15:30:06-06:00",
+      "card_id": "ccof:QscDGFhujqVSlkkv3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "940a2f01-55f4-4f83-ae37-99003ac90198",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "3AKVB4YJYANA2XWMVP3W7SZ6YM",
+      "start_date": "2023-01-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAMQDEt0ELvrxz26bgP8-FqEJoK",
+        "inv:0-ChDuYa-JZGpTM4weSAkeA81AEJoK",
+        "inv:0-ChBQzo4uXNw8mvSEPNlUWgDyEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-13T15:33:02-06:00",
+      "card_id": "ccof:AOXqAnkHspypEKyj3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "771c22f4-df2b-4bca-9fa0-39b4d528d67b",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "D4SVSEK1K7EX55HR7YSH7Y6WB8",
+      "start_date": "2023-01-16",
+      "charged_through_date": "2023-04-16",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCfQOO8RBehQOXMm2T-BP7ZEJoK",
+        "inv:0-ChAv-QN8ePScK00oWqgiN1_nEJoK",
+        "inv:0-ChCZQDUhHMbBc9RO9yQkAFDgEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-16T20:57:47-06:00",
+      "card_id": "ccof:woU4G6ykMO4xEmvr4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "650dc97d-887e-43f8-9b91-e80fe2ecd6ab",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "4JXR7169JMP3R70ENPENHKZ9Y8",
+      "start_date": "2023-01-17",
+      "charged_through_date": "2023-04-17",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCinfhqDEPulc3qvVaP1d6aEJoK",
+        "inv:0-ChBC_06Ni5t-9dOR5n4By0AgEJoK",
+        "inv:0-ChCafj-F77Ms4FQat8bxa_kbEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-17T09:48:18-06:00",
+      "card_id": "ccof:OhTdMHPUTyyjAEqn3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "a1d5a966-1a64-469b-bff0-a08cefb7d71b",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "3CCX4G8ZG2PXRJB0PC4TCWWF3W",
+      "start_date": "2023-01-18",
+      "charged_through_date": "2023-04-18",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDE-s-39f5KD-qaDDMFCOEHEJoK",
+        "inv:0-ChBRRPtM_pUGtzVuGFRB6mFsEJoK",
+        "inv:0-ChAopyJs7N7GpHoom7C6dsl3EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-18T14:32:51-06:00",
+      "card_id": "ccof:ODKatZPXC3JWqOYy3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "9127bfa5-cd13-4346-9826-7420bcf655cc",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "7A7MPOEMJKFKZQ4OHRNHABOT",
+      "customer_id": "JNV51MF2AX6CB18ZVNVZQM24WR",
+      "start_date": "2023-01-24",
+      "charged_through_date": "2023-04-24",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDcVULJa8TMX5Ci6TfTNM1QEJoK",
+        "inv:0-ChD3XDxedOfRchFi5Lppfd_0EJoK",
+        "inv:0-ChDuUVtBDU3W4gHLu_7ndKOaEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-24T11:09:16-06:00",
+      "card_id": "ccof:oODnjSNju83laXBu3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "a7d6b1a1-3b72-40dc-951e-c71042ac667a",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "WQGFBGSXFGDGMDT9ERXMJD0H88",
+      "start_date": "2023-01-25",
+      "charged_through_date": "2023-04-25",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDDve8dTFU8H2jsk08PhGu4EJoK",
+        "inv:0-ChCA37MXRZHFlQLBzRapA5CsEJoK",
+        "inv:0-ChBZNxTbfWyYMX1VXm_idPw9EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-25T13:57:31-06:00",
+      "card_id": "ccof:abrCPBY8FCYXT3QO4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "47ba0b77-2e01-461c-8973-98613a361bdc",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "76C6171M4H2GSPX5DAZQBPA9DW",
+      "start_date": "2023-01-28",
+      "charged_through_date": "2023-04-28",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDVaPewMXr5NPsJ9wO_S2VmEJoK",
+        "inv:0-ChDLzsAN7vi8AxtH_HOFaTi1EJoK",
+        "inv:0-ChBVAt-D2dhqjs913Ns2vBFCEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-28T13:36:09-06:00",
+      "card_id": "ccof:AQqrKi49ETVg3Buy3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "07463b1b-4e63-4336-b4c2-e9f1edcbe585",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "SQ38NJHWF4KZ4F3Q0FPNDBGBZ0",
+      "start_date": "2023-01-31",
+      "charged_through_date": "2023-03-31",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAT8vTLT1_AObVjphG-v-RPEJoK",
+        "inv:0-ChC5vVMAiS3gbht338zT3cjUEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-01-31T17:36:33-06:00",
+      "card_id": "ccof:uJ3x6kpuEgXSFrDI4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c087f24a-0fd3-4a79-8f90-df65e13ae5ed",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ETHN9ZPV8S95S2FAM31DH41GCG",
+      "start_date": "2023-02-02",
+      "canceled_date": "2023-04-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChB2sKGUEVV6vPsvkqylgsrREJoK",
+        "inv:0-ChDvMkOBAtWHrjhSKvJEY9SOEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-02T11:19:15-06:00",
+      "card_id": "ccof:0o72X8OxnwZzXc2U3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "e65a70cf-321c-4699-825b-19343cc092c8",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "SG6VF1ES3AE5M4PE2HY5WTCC3G",
+      "start_date": "2023-02-02",
+      "canceled_date": "2023-04-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChC5t10_R6yF08ybhp11cEX2EJoK",
+        "inv:0-ChD3fp_WTUy53M0tWtakRtcQEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-02T11:20:52-06:00",
+      "card_id": "ccof:YaZ9hbUdgUJNrfpV4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "71ebddc9-f8e3-45fd-886c-7ba42e179ed5",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "WND6DMV66P3CR8WYCW2XY2BENR",
+      "start_date": "2023-02-04",
+      "charged_through_date": "2023-04-04",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBVAf1Z-OXOH5ln-ZesGKqvEJoK",
+        "inv:0-ChDb_N6vNpl8ybTjw536wyGHEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-04T14:28:43-06:00",
+      "card_id": "ccof:SnTQG7lBYuGhQYQr3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "7002f9b0-e1e3-41d3-88ae-81b7ddad4260",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "7A7MPOEMJKFKZQ4OHRNHABOT",
+      "customer_id": "CJH99MDBSA4CSNJCCRK06MA1ZM",
+      "start_date": "2023-02-06",
+      "charged_through_date": "2023-04-06",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBYwuccQgcvaLeLDh5SoHHOEJoK",
+        "inv:0-ChDp9i6IMtMSAikf0MJIrLsQEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-06T13:28:44-06:00",
+      "card_id": "ccof:IKFlnKmcwqtVYRDl4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "056d375f-e0e0-4d46-ab48-505ed687ef06",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ACJPMP2WSR6XGZJGE83QXG3PX8",
+      "start_date": "2023-02-07",
+      "canceled_date": "2023-03-07",
+      "charged_through_date": "2023-03-07",
+      "status": "CANCELED",
+      "invoice_ids": [
+        "inv:0-ChCUgCNfWLwhE1mCcp_83N9REJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-07T09:18:05-06:00",
+      "card_id": "ccof:Sh0OsJIkiNTlQ7GE4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "d0e46752-b2d0-47bb-9df6-a4e73602b613",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "C116XH673VT0E5XZEYXQH417ZG",
+      "start_date": "2023-02-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCL9uCHuFRxR-nMYzpL3inHEJoK",
+        "inv:0-ChAj9Ot476BWUHkiSVyW7l1DEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-07T12:06:57-06:00",
+      "card_id": "ccof:Ug5nDbveDYzYXasm4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "dc07a402-4ac7-45ee-90d1-de53b480765a",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "2QSKFJD1PTWM4Z1X48SZ9ZRHRC",
+      "start_date": "2023-02-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBGYUvqOWPg9PaG3iPqc0q4EJoK",
+        "inv:0-ChB9rvQLxwpdqGqH_3rQzdcVEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-07T16:05:52-06:00",
+      "card_id": "ccof:cGUiY2eAJt33RMxh4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "4c947b8f-313e-45dd-8d9a-761fb103ae94",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "J0C65DJXPBASHMX5MDQGEMP0EG",
+      "start_date": "2023-02-08",
+      "charged_through_date": "2023-04-08",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAFr6LeqfkbJF_TppAHgZiPEJoK",
+        "inv:0-ChC1upJBZsdxAbzkVQbr0XMrEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-08T15:19:27-06:00",
+      "card_id": "ccof:SFIBtB27pY7WvGVR4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "571df873-54b0-49ee-870c-859393cee6c8",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "QNT65CT7ENJF22ZDV6N6XNCA6C",
+      "start_date": "2023-02-10",
+      "charged_through_date": "2023-04-10",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDnK6GedeclSd1fBWg8mptfEJoK",
+        "inv:0-ChAEd1lpes80-LKxTjGUOEoGEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-10T11:53:28-06:00",
+      "card_id": "ccof:2rWHXDPBeyJYS1WE4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "94ddb909-bd35-4b7e-ac23-06a1ab984006",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "SBKMWBPRD81CR3T1PE70GF3NE4",
+      "start_date": "2023-02-10",
+      "charged_through_date": "2023-04-10",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChA3NfbWW9_wNhmUYYG3R1vmEJoK",
+        "inv:0-ChCUTGgpRj0ml9BXexneeasDEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-10T12:39:32-06:00",
+      "card_id": "ccof:0mqSP5P6k7q5gJcg4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c295e068-ab92-4984-8402-fb13b2925c4c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "EPEXBEDZ9YDFXAB2ARWHQ7MASG",
+      "start_date": "2023-02-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCtsaAhypsB6nNvCJ6CFejREJoK",
+        "inv:0-ChAN6xefjAh5uEX87y5dieEdEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-13T11:35:53-06:00",
+      "card_id": "ccof:ebAlFaIX0gTtyn8n4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "99a31e89-f79a-4659-b21e-70efb46d9bfb",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "P0XXXM6HXMCQNYF45THW6JZ5SM",
+      "start_date": "2023-02-16",
+      "charged_through_date": "2023-04-16",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDRpxFNVD4FPXp1EqlV2H6kEJoK",
+        "inv:0-ChCcbnxuRR14OQcrxnin_d5pEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-16T14:11:57-06:00",
+      "card_id": "ccof:2RR5y9XilXwFc6TF4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "f0976372-fdaa-492e-bd66-b0cd1a4de37f",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "YN4KRK4L3Q64PVRAFPKZBF4B",
+      "customer_id": "AFTJ6VYP6HMCM9YYNKKC382ZP4",
+      "start_date": "2023-02-17",
+      "charged_through_date": "2023-04-17",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBPitBbu5_eb9Nl3lRcMhaYEJoK",
+        "inv:0-ChAggKCpF2JsbFq1tL6-eGZ2EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-17T12:01:39-06:00",
+      "card_id": "ccof:IORES1skuGUD6kUp3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "5e18f087-cf28-4ff5-9dc1-991adf0ee75f",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "7F727KMB5QQ9T75Y7QFTD6VQTG",
+      "start_date": "2023-02-17",
+      "charged_through_date": "2023-04-17",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDVMot1CJ6xSg0zEwiQW6o3EJoK",
+        "inv:0-ChDfM6jN7QSPo9m11l1RdJriEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-17T12:28:33-06:00",
+      "card_id": "ccof:YeJOEqw8tNrtZl5h3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c8121d50-a8b4-4f8e-9d71-c25542dbb55d",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "N0QB7K572MJTJK7R29K2TVDW50",
+      "start_date": "2023-02-18",
+      "charged_through_date": "2023-04-18",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBb6oCBaaPLlBtERJT54ClCEJoK",
+        "inv:0-ChDp22BK9KDmakr6wN9Eoh_qEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-18T15:13:48-06:00",
+      "card_id": "ccof:sacpbOG4gVIU9a443GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "db69dd3d-43ac-40dd-ad54-abff69cb9565",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "52E0Z96BA207VDXER0DM39R00G",
+      "start_date": "2023-02-24",
+      "charged_through_date": "2023-04-24",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDDUhaAGN1JEBP8_-eyZ1XtEJoK",
+        "inv:0-ChBgHWkjuvGPMRpgnwK3zdRuEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-24T11:05:15-06:00",
+      "card_id": "ccof:irbn3dCqtQMxTiy93GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "c96bf089-7851-45f6-925f-cebf8cfd494c",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "9NC1W2BVQ4A5019TKNT0ZHDCPM",
+      "start_date": "2023-02-27",
+      "charged_through_date": "2023-04-27",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDqJmzSfwXuGMQpaR4kTmuNEJoK",
+        "inv:0-ChAmgebkM2jowmzYcxrEGPAxEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-02-27T10:21:05-06:00",
+      "card_id": "ccof:smsmTK9mFYGBIUWo3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "a8b73e96-3337-434d-a826-5b7d0b3f8854",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "6PSEB6ZXMY3VYWKQ75Y3DC5WRW",
+      "start_date": "2023-03-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCrKX0DXMIWoschPWHrbGnTEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-02T10:50:55-06:00",
+      "card_id": "ccof:mtBmVDl0r3HFinTP3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "b5dea36d-6239-4bf5-86f3-11188f198b4a",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "E1JJFJJV0YJ6FW34DEBSN3CQ70",
+      "start_date": "2023-03-02",
+      "canceled_date": "2023-04-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChC4kj8rDOQVFWV_3UFl19iIEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-02T13:08:18-06:00",
+      "card_id": "ccof:Ecrfxitl2DeNHA0w3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "d8c487fe-5af5-4df9-b5fd-4d306136888a",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "VJ0NJP3TEP1C2048K63AWBV234",
+      "start_date": "2023-03-02",
+      "charged_through_date": "2023-04-02",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAknDmxFrba2JrhuUTwxADbEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-02T13:12:35-06:00",
+      "card_id": "ccof:wUcvf51aCRzf6GB83GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "199fa156-1e6f-46d7-8192-8559d27fefca",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "SDFZXMM9ZNNV968QY6XB2CK0XG",
+      "start_date": "2023-03-07",
+      "charged_through_date": "2023-04-07",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChD80hEkPa7fnd88zuftMYDREJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-07T16:12:18-06:00",
+      "card_id": "ccof:eHs6qSIcNgPBmJwZ3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "2b21b8eb-91cb-4456-8530-8cf4ebc833cc",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "QYPS00JPRKTFHKQY7F4GH36EHG",
+      "start_date": "2023-03-08",
+      "charged_through_date": "2023-04-08",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBxefsP_5IEj957aQEDKzx9EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-08T11:40:46-06:00",
+      "card_id": "ccof:o4CYBS3PtGUd9xdp4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "610a8821-e261-483e-a64b-6648dd6018ac",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "RM5B6SJ9GF02Z992MTKWD4SZ90",
+      "start_date": "2023-03-13",
+      "charged_through_date": "2023-04-13",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChDgakrPTPkLbWlPHd14ZZtvEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-13T10:50:09-05:00",
+      "card_id": "ccof:gcSM2LzhHzxNzXNw4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "9e14f9ed-4565-48f8-a04c-10ff7d3f9d31",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "45JEZ03NXN1V33TMJEP77CXYN0",
+      "start_date": "2023-03-17",
+      "charged_through_date": "2023-04-17",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChBgAcEeZuadxh4sH3j5kKxCEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-17T17:16:12-05:00",
+      "card_id": "ccof:sYzhVeTe3mNVQZEX3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "b4dde206-0af4-4ebe-87b8-89a40f8562e7",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "ES7NAXPNFMB6TVVR53GSZD5CY4",
+      "start_date": "2023-03-18",
+      "charged_through_date": "2023-04-18",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCJCDI1c3tnTcEzSC4cD7HsEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-18T14:04:40-05:00",
+      "card_id": "ccof:ky6vSO02W3mNedea3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "ef21c559-490a-41e2-bb52-b5958a718df8",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "3AKVB4YJYANA2XWMVP3W7SZ6YM",
+      "start_date": "2023-03-20",
+      "charged_through_date": "2023-04-20",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChAfSjYiioSz1PARe4k6U1GeEJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-20T14:32:43-05:00",
+      "card_id": "ccof:sAXRZYCaiwsfkNbr3GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    },
+    {
+      "id": "2f97b65a-efb0-4d8c-ae17-3a1c129a8c21",
+      "location_id": "TC8F6DD2PJERK",
+      "plan_id": "DWES34FI3IR5C237D6KZGRK4",
+      "customer_id": "C7RWK9D6BD7FNDY7HWPJPH8M1C",
+      "start_date": "2023-03-30",
+      "charged_through_date": "2023-04-30",
+      "status": "ACTIVE",
+      "invoice_ids": [
+        "inv:0-ChCDt3i3UP3uAKhuJtLnXkn3EJoK"
+      ],
+      "version": 1,
+      "created_at": "2023-03-30T15:15:26-05:00",
+      "card_id": "ccof:SndVckOuFPNmtJtG4GB",
+      "timezone": "America/Chicago",
+      "source": {
+        "name": "BeyondLotteryDisplay"
+      }
+    }
+  ]
+}
