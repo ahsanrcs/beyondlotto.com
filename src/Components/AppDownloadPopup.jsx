@@ -7,18 +7,12 @@ import playBlack from "../assets/images/playBlack.png";
 
 export default function AppDownloadPopup({ show, handleClose }) {
   const [dontShowAgain, setDontShowAgain] = useState(false);
-  const [isVisible, setIsVisible] = useState(show); // Control modal visibility properly
+  const [isVisible, setIsVisible] = useState(show);
 
+  // Sync `isVisible` with the `show` prop
   useEffect(() => {
-    const dontShow = localStorage.getItem("dontShowAppDownload");
-
-    // Ensure it only hides if the user explicitly chose "Don't show again"
-    if (dontShow === "true") {
-      setIsVisible(false);
-    } else {
-      setIsVisible(show); // Properly show the modal
-    }
-  }, [show]); // Depend on `show` prop to update state correctly
+    setIsVisible(show);
+  }, [show]);
 
   const handleCheckboxChange = () => {
     setDontShowAgain(!dontShowAgain);
@@ -28,8 +22,8 @@ export default function AppDownloadPopup({ show, handleClose }) {
     if (dontShowAgain) {
       localStorage.setItem("dontShowAppDownload", "true");
     }
-    setIsVisible(false); //  Hide popup when closing
-    handleClose();
+    setIsVisible(false); // Hide the modal
+    handleClose(); // Notify parent component
   };
 
   return (

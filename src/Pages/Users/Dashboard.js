@@ -10,6 +10,8 @@ import { showError } from "../../utils/functions";
 import moment from "moment";
 import { useHistory } from "react-router-dom";
 import RecentImages from "../../Components/RecentImages";
+import AppDownloadPopup from "../../Components/AppDownloadPopup"; // Ensure correct path
+
 const Dashboard = () => {
 	const [userData, setUserData] = useState(null);
 	const [screen, setScreen] = useState(1);
@@ -20,8 +22,18 @@ const Dashboard = () => {
 	const [{ user }] = useStateValue();
 	const history = useHistory();
 
+// App Download Popup Logic
+const [showPopup, setShowPopup] = useState(false);
+
+useEffect(() => {
+  const dontShow = localStorage.getItem("dontShowAppDownload");
+  if (dontShow !== "true") {
+	setShowPopup(true);
+  }
+}, []);
+
 	const fetchUserGames = () => {
-		console.log("fetchUserGames running");
+		// console.log("fetchUserGames running");
 		getDoc(doc(db, "users", auth.currentUser.uid))
 			.then((d) => {
 				if (d.exists()) {
@@ -49,7 +61,7 @@ const Dashboard = () => {
 				}
 			})
 			.catch((e) => {
-				console.log(e);
+				// console.log(e);
 				setLoading(false);
 				showError("Something went wrong");
 			});
@@ -57,7 +69,7 @@ const Dashboard = () => {
 
 	useEffect(() => {
 		if (user) {
-			console.log(user);
+			// console.log(user);
 			const acc = user.account_type || "basic";
 			setValidScreens(subscriptions.filter((a) => a.name === acc)[0].screens);
 		}
@@ -69,7 +81,7 @@ const Dashboard = () => {
 		}
 	}, [user]);
 
-	console.log(validScreens);
+	// console.log(validScreens);
 
 	useEffect(fetchUserGames, []);
 
@@ -154,6 +166,9 @@ const Dashboard = () => {
 						fetchUserGames={fetchUserGames}
 					/>
 				))}
+
+				 {/* App Download Popup */}
+				 {/* <AppDownloadPopup show={showPopup} handleClose={() => setShowPopup(false)} /> */}
 		</div>
 	);
 };
