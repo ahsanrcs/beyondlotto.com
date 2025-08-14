@@ -158,6 +158,7 @@ useEffect(() => {
 						data={userData[`screen${screen}`]}
 						screen={screen}
 						fetchUserGames={fetchUserGames}
+						userData={userData}
 					/>
 				) : (
 					<CScreen
@@ -168,7 +169,7 @@ useEffect(() => {
 				))}
 
 				 {/* App Download Popup */}
-				 {/* <AppDownloadPopup show={showPopup} handleClose={() => setShowPopup(false)} /> */}
+				  <AppDownloadPopup show={showPopup} handleClose={() => setShowPopup(false)} /> 
 		</div>
 	);
 };

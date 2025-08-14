@@ -12,7 +12,7 @@ import { auth, db } from "../firebase";
 import { showError, showSuccess } from "../utils/functions";
 import Spin from "../utils/Spin";
 
-const Screen = ({ data, screen, fetchUserGames }) => {
+const Screen = ({ data, screen, fetchUserGames,userData }) => {
 	const [boxes, setBoxes] = useState([]);
 	const [animate_box, setAnimateBox] = useState([]);
 	const [defaultBoxes, setDefaultBoxes] = useState([]);
@@ -55,7 +55,26 @@ const Screen = ({ data, screen, fetchUserGames }) => {
 		setChangeKey(Math.random());
 		fetchGames(tempArr);
 	}, [screen, data]);
+//calculate index no for each box
+  const calculateIndex = (index) => {
+    let newIndex = index;
+    if (screen === 2) {
+      newIndex = index + userData.screen1.total_boxes;
+    }
+    // if (screen === 3) {
+    //   newIndex =
+    //     index + userData.screen1.total_boxes + userData.screen2.total_boxes;
+    // }
+    // if (screen === 4) {
+    //   newIndex =
+    //     index +
+    //     userData.screen1.total_boxes +
+    //     userData.screen2.total_boxes +
+    //     userData.screen3.total_boxes;
+    // }
 
+    return newIndex;
+  };
 	const fetchGames = async (arr) => {
 		const qArr = arr.filter((a) => a);
 		const ln = qArr.length;
@@ -218,7 +237,7 @@ const Screen = ({ data, screen, fetchUserGames }) => {
 								className='card-body mt-0'
 							>
 								<div className='text-center text-black small-text mb-1'>
-									{i + 1}
+									{calculateIndex(i) + 1}
 								</div>
 								<div
 									style={{ height: "21vh", maxHeight: "150px" }}

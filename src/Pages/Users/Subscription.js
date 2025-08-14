@@ -10,7 +10,8 @@ import { doc, getDoc } from "firebase/firestore";
 import { db } from "../../firebase";
 import Spin from "../../utils/Spin";
 import CardDetails from "../../Components/CardDetails";
-
+import ACHPaymentModal from "../../Components/ACHPaymentModal"; 
+import { FaCreditCard, FaUniversity, FaTimes } from "react-icons/fa";
 const Subscription = () => {
 	const [openModal, setOpenModal] = useState(false);
 	const [showCancelModal, setShowCancelModal] = useState(false);
@@ -18,6 +19,8 @@ const Subscription = () => {
 	const [plan, setPlan] = useState(null);
 	const [loading, setLoading] = useState(false);
 	const [{ user }, action] = useStateValue();
+	const [showPaymentMethodModal, setShowPaymentMethodModal] = useState(false);
+	const [showACHModal, setShowACHModal] = useState(false);
 
 	const updateUser = async () => {
 		getDoc(doc(db, "users", user.id))
@@ -38,25 +41,56 @@ const Subscription = () => {
 	};
 
 	const handleCancel = async () => {
+		// try {
+		// 	setLoading(true);
+		// 	const body = JSON.stringify({
+		// 		userId: user.id,
+		// 	});
+		// 	const res = await fetch(
+		// 		process.env.REACT_APP_SERVER_URL + "/cancelSubscription",
+		// 		{
+		// 			method: "POST",
+		// 			body,
+		// 		}
+		// 	);
+		// 	console.log(res);
+		// 	if (res.ok) {
+		// 		showSuccess("Subscription cancelled");
+		// 		setShowCancelModal(false);
+		// 	}
+		// 	updateUser();
+		// } 
 		try {
 			setLoading(true);
-			const body = JSON.stringify({
-				userId: user.id,
-			});
-			const res = await fetch(
-				process.env.REACT_APP_SERVER_URL + "/cancelSubscription",
-				{
-					method: "POST",
-					body,
-				}
-			);
-			console.log(res);
-			if (res.ok) {
-				showSuccess("Subscription cancelled");
-				setShowCancelModal(false);
+			let endpoint = "";
+		
+			if (user?.sub_id) {
+			  endpoint = process.env.REACT_APP_SERVER_URL + "/cancelSubscription";
+			} else if (user?.authorize_subscription_id) {
+			  endpoint = process.env.REACT_APP_SERVER_URL + "/cancelAuthorizeSubscription";
 			}
+		
+			if (!endpoint) {
+			  showError("No subscription to cancel");
+			  return;
+			}
+		
+			const body = JSON.stringify({ userId: user.id });
+			const res = await fetch(endpoint, {
+			  method: "POST",
+			  body,
+			});
+		
+			if (res.ok) {
+			  showSuccess("Subscription cancelled");
+			  setShowCancelModal(false);
+			} else {
+			  showError("Failed to cancel subscription");
+			}
+			
 			updateUser();
-		} catch (e) {
+		  }
+		catch (e) {
 			console.log(e);
 			showError("Something went wrong");
 		} finally {
@@ -151,12 +185,12 @@ const Subscription = () => {
 										))}
 									</div>
 								</div>
-								<div style={{ alignSelf: "center" }}>
+								{/* <div style={{ alignSelf: "center" }}>
 									{!user?.sub_id ? (
 										<button
 											onClick={() => {
 												setPlan(s);
-												setOpenModal(true);
+												setShowPaymentMethodModal(true);
 											}}
 											style={{ background: s.color, padding: "15px 40px" }}
 											className='btn'
@@ -189,7 +223,47 @@ const Subscription = () => {
 											</div>
 										)
 									)}
-								</div>
+								</div> */}
+								<div style={{ alignSelf: "center" }}>
+  {!user?.sub_id && !user?.authorize_subscription_id ? (
+    <button
+      onClick={() => {
+        setPlan(s);
+        setShowPaymentMethodModal(true);
+      }}
+      style={{ background: s.color, padding: "15px 40px" }}
+      className='btn'
+    >
+      ACTIVE
+    </button>
+  ) : user?.account_type === s.name && (
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        gap: "10px",
+      }}
+    >
+      {user?.sub_id && (
+        <button
+          onClick={() => setShowCardModal(true)}
+          style={{ background: s.color, padding: "15px 40px" }}
+          className='btn'
+        >
+          Update card
+        </button>
+      )}
+      <button
+        onClick={() => setShowCancelModal(true)}
+        style={{ padding: "15px 40px" }}
+        className='btn btn-outline-danger'
+      >
+        Cancel
+      </button>
+    </div>
+  )}
+</div>
+
 							</div>
 						</div>
 					</div>
@@ -199,6 +273,57 @@ const Subscription = () => {
 			{subscriptions.map((s, _i) => {
 				<div>{s.name}</div>;
 			})} */}
+			
+<Modal show={showPaymentMethodModal} onHide={() => setShowPaymentMethodModal(false)} centered>
+  <Modal.Header closeButton className="bg-white text-dark">
+    <Modal.Title>Select Payment Method</Modal.Title>
+  </Modal.Header>
+  
+  <Modal.Body className="bg-white text-dark text-center p-4">
+    <p className="mb-4" style={{ fontSize: "1.2rem", fontWeight: "500" }}>
+      Choose how you want to make the payment:
+    </p>
+
+    <div className="d-flex flex-column gap-3">
+      {/* Pay with Card */}
+      <button
+        className="btn btn-primary d-flex align-items-center justify-content-center mb-2 gap-2 py-3"
+        onClick={() => {
+          setShowPaymentMethodModal(false);
+          setOpenModal(true);
+        }}
+      >
+        <FaCreditCard size={20} /> Pay with Card
+      </button>
+
+      {/* Pay with ACH */}
+      <button
+        className="btn btn-success d-flex align-items-center justify-content-center gap-2 py-3"
+        onClick={() => {
+          setShowPaymentMethodModal(false);
+          setShowACHModal(true);
+        }}
+      >
+        <FaUniversity size={20} /> Pay with ACH
+      </button>
+    </div>
+  </Modal.Body>
+
+  <Modal.Footer className="bg-white text-dark">
+    <button onClick={() => setShowPaymentMethodModal(false)} className="btn btn-danger w-100 py-3">
+      <FaTimes size={18} /> Close
+    </button>
+  </Modal.Footer>
+</Modal>
+ {/* ACH Payment Modal */}
+ <ACHPaymentModal
+        showACHModal={showACHModal}
+        setShowACHModal={setShowACHModal}
+        plan={plan}
+        user={user}
+        onSuccess={updateUser} 
+      />
+
 			<Modal show={openModal} onHide={() => setOpenModal(null)} centered>
 				<Modal.Header
 					closeButton
@@ -297,7 +422,7 @@ const Subscription = () => {
 				<Modal.Footer style={{ background: "white", color: "black" }}>
 					<div>
 						<button
-							onClick={() => setOpenModal(false)}
+							onClick={() => setShowCancelModal(false)}
 							style={{ padding: "15px 40px" }}
 							className='btn btn-outline-dark'
 						>
