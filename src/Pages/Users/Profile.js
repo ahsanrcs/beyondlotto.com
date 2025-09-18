@@ -2,7 +2,7 @@ import {
 	createUserWithEmailAndPassword,
 	signInWithEmailAndPassword,
 	updateCurrentUser,
-	updateEmail,
+	// updateEmail,
 	updatePassword,
 	updateProfile,
 } from "firebase/auth";
@@ -79,29 +79,29 @@ const Profile = (props) => {
 		setLoading(true);
 		const newData = { ...formData };
 
-		if (formData.email !== prevData.email) {
-			if (!formData.oldPassword) {
-				setLoading(false);
-				showError("Please provide your password to change email");
-				return;
-			}
-			signInWithEmailAndPassword(
-				auth,
-				prevData.email,
-				formData.oldPassword
-			).then((d) => {
-				updateEmail(auth.currentUser, formData.email)
-					.then((res) => {
-						console.log(res);
-					})
-					.catch((err) => {
-						console.log(err);
-						setLoading(false);
-						showError("Something went wrong!");
-						return;
-					});
-			});
-		}
+		// if (formData.email !== prevData.email) {
+		// 	if (!formData.oldPassword) {
+		// 		setLoading(false);
+		// 		showError("Please provide your password to change email");
+		// 		return;
+		// 	}
+		// 	signInWithEmailAndPassword(
+		// 		auth,
+		// 		prevData.email,
+		// 		formData.oldPassword
+		// 	).then((d) => {
+		// 		updateEmail(auth.currentUser, formData.email)
+		// 			.then((res) => {
+		// 				console.log(res);
+		// 			})
+		// 			.catch((err) => {
+		// 				console.log(err);
+		// 				setLoading(false);
+		// 				showError("Something went wrong!");
+		// 				return;
+		// 			});
+		// 	});
+		// }
 
 		if (formData.password) {
 			if (formData.password !== formData.confirmPassword) {
@@ -376,9 +376,11 @@ const Profile = (props) => {
 											className='form-control'
 											id='exampleInputEmail2'
 											placeholder='Email'
-											onChange={(e) =>
-												setFormData({ ...formData, email: e.target.value })
-											}
+											disabled   // 🔒 this prevents editing
+      readOnly   // optional, just to be safey
+											// onChange={(e) =>
+											// 	setFormData({ ...formData, email: e.target.value })
+											// }
 										/>
 									</div>
 								</Form.Group>
